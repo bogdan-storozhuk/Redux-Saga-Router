@@ -1,0 +1,8 @@
+.ChatContentPanelHeaderWrapper{
+    display: grid;
+    grid-template-columns: 60px 120px 120px 1fr;
+    grid-gap: 10px;
+    justify-items: right;
+    border: 2px solid black;
+    margin-bottom: 5px;
+}

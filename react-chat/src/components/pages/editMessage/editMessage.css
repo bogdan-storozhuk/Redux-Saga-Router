@@ -1,0 +1,21 @@
+#page-wrapper{
+    max-width: 1300px;
+    margin: auto;
+}
+#message-wrapper{
+        display: grid;
+        grid-gap: 10px;
+        justify-items:center;
+}
+#message_edit{
+    width: 1300px;
+    height: 400px;
+}
+#button-wrapper{
+    float: right;
+    margin: 10px 10px;
+}
+.edit_buttons{
+    margin:5px;
+    width: 100px;
+}

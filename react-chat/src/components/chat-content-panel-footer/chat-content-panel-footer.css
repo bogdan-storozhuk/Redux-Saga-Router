@@ -1,0 +1,7 @@
+.chatContentPanelFooterWrapper{
+    display: grid;
+    grid-template-columns: 400px;
+    grid-gap: 10px;
+    justify-content: center;
+    margin:10px;
+}

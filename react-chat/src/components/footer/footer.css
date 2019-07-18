@@ -1,0 +1,8 @@
+.footerWrapper{
+    display: grid;
+    justify-content: center;
+}
+.copyright{
+    color: #ffffff;
+    background-color: #000000;
+}
